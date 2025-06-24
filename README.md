@@ -76,7 +76,7 @@ void imprimirAgenda(struct Contato agenda[], int totalContatos);
 
 ---
 
-## 💡 Próximos Passos (Sugestões de Evolução)
+## 💡 Próximos Passos 
 
 - [ ] Utilizar `fgets()` para aceitar entradas com espaços
 - [ ] Adicionar validação de dados (ex: formato de e-mail, número de telefone)
