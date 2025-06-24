@@ -65,7 +65,7 @@ void cadastrarContato(struct Contato agenda[], int *totalContatos);
 void buscarContato(struct Contato agenda[], int totalContatos);
 void imprimirAgenda(struct Contato agenda[], int totalContatos);
 ---
-
+```
 ## 📌 Limitações Atuais
 
 - A agenda está limitada a **2 contatos** (`struct Contato agenda[2];`), o que pode ser ajustado facilmente para uma capacidade maior.
